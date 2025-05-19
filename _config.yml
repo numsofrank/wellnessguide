@@ -1,3 +1,4 @@
 title: My Awesome Blog
 description: A simple blog about my interests.
 theme: jekyll-theme-minimal
+baseurl: "/wellnessguide"
