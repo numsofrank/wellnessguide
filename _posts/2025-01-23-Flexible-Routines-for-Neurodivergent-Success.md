@@ -12,7 +12,7 @@ description: "How the Honeyman Method brings flexibility and compassion to daily
 
 *Learn how the Honeyman Method and adaptive daily habits support neurodiversity by offering ADHD routine tips, autism daily structure, and small wins strategies.*
 
-**By [Your Name] | Posted May 21, 2025**
+
 
 ---
 
