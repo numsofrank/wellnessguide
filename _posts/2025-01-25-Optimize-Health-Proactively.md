@@ -202,13 +202,6 @@ Start your journey today: swap one meal for whole foods, take five-minute exerci
 
 ---
 
-## Resources 
-
-1. [Functional Medicine: A Paradigm Shift](https://www.ifm.org/about/what-is-functional-medicine/)  
-2. [Continuous Glucose Monitors for Wellness](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075999/)  
-3. [Sleep Apnea and Alzheimer’s Risk](https://jamanetwork.com/journals/jama/fullarticle/2750249/)  
-4. [Advanced Lipid Testing Explained](https://www.acc.org/latest-in-cardiology/articles/2019/02/18/13/14/assessing-cardiovascular-risk)  
-5. [Liquid Biopsy in Early Cancer Detection](https://www.nature.com/articles/s41568-019-0134-4/)
 
 
 ## Resources
