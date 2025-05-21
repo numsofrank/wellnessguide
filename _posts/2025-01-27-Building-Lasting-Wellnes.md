@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Lasting Wellness: 9 Habits for Long-Term Health and Managing Autoimmune Conditions"
-date: 2025-01-127
+date: 2025-01-27
 description: "Learn actionable tips and small habit changes—from meal prep and hydration to movement and stress management—to support autoimmune health and lasting wellness."
 ---
 
