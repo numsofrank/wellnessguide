@@ -21,7 +21,7 @@ Every January, we promise ourselves fresh starts—new diets, exercise plans, an
 
 In this comprehensive, 2000+ word guide, we’ll explore **nine core habits** that support lasting wellness for anyone—and especially those with autoimmune challenges. You’ll discover how small, incremental changes in your daily life accumulate to powerful health benefits.
 
-Key areas covered:
+Key areas covered: 
 
 1. Home Cooking & Ingredient Control  
 2. Flexible Meal Timing & Food Variety  
