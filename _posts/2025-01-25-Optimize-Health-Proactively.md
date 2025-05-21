@@ -202,7 +202,7 @@ Start your journey today: swap one meal for whole foods, take five-minute exerci
 
 ---
 
-## Resources (≈100 words)
+## Resources 
 
 1. [Functional Medicine: A Paradigm Shift](https://www.ifm.org/about/what-is-functional-medicine/)  
 2. [Continuous Glucose Monitors for Wellness](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075999/)  
