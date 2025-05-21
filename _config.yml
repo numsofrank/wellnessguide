@@ -2,3 +2,7 @@ title: Wellness Blog
 description: Tips for Wellness.
 theme: jekyll-theme-minimal
 baseurl: "/wellnessguide"
+# Plugins for Jekyll
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
