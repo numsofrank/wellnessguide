@@ -18,9 +18,7 @@ Stress and anxiety don't have to control your life. In fact, **88% of people** e
 
 After interviewing renowned psychologist Dr. Judy Smith and analyzing the latest research, we've compiled the most effective methods to help you regain control over your mental well-being. These aren't just theories—they're practical tools you can start using today.
 
-![A person sitting peacefully in a modern, calming environment with soft lighting and plants](stress_relief_hero_image.jpg)
-*AI Image Prompt: "Peaceful person meditating in a modern, minimalist room with soft natural lighting, plants, and calming colors, photorealistic style, high quality"*
-*Stock Keywords: stress relief, mental health, mindfulness, calm person*
+
 
 ---
 
@@ -72,9 +70,7 @@ Step-back approach: *"I'm noticing the thought that I might fail this presentati
 
 This subtle shift creates what psychologists call **cognitive defusion**—separating yourself from your thoughts rather than being consumed by them.
 
-![A person looking at thought bubbles floating away from their head, representing mental distance](thought_observer_concept.jpg)
-*AI Image Prompt: "Abstract illustration of a person with thought bubbles floating away, representing mental distance from thoughts, clean modern art style"*
-*Stock Keywords: cognitive therapy, mental distance, thought observation*
+
 
 ### The Mask Analogy
 
@@ -112,8 +108,7 @@ Research by Dr. Lisa Feldman Barrett shows that people with higher **emotional g
 - Stronger resilience to stress
 
 ![The Feelings Wheel - a circular diagram showing emotions from basic (center) to complex (outer ring)](feelings_wheel_diagram.jpg)
-*AI Image Prompt: "Colorful feelings wheel diagram showing emotions from basic in center to complex on outer rings, educational infographic style"*
-*Stock Keywords: emotions wheel, emotional intelligence, feelings chart*
+
 
 ### How to Use the Feelings Wheel
 
@@ -159,8 +154,7 @@ Think of emotions as icebergs. What you see on the surface (irritability, fatigu
 - *Caption*: "Early intervention prevents stress escalation and burnout"
 
 ![An iceberg diagram showing surface emotions above water and deeper causes below](emotional_iceberg_diagram.jpg)
-*AI Image Prompt: "Iceberg diagram showing surface emotions above waterline and deeper psychological causes below, educational illustration style"*
-*Stock Keywords: emotional awareness, psychology iceberg, mental health awareness*
+
 
 ### Common Early Warning Signals
 
@@ -198,8 +192,7 @@ You wave at someone across the street, but they don't wave back. **Personalizing
 **Reality check**: They might not have seen you, been deep in thought, or had their hands full.
 
 ![Split image showing personalized vs. realistic thinking about social situations](personalizing_vs_reality.jpg)
-*AI Image Prompt: "Split screen illustration showing anxious personalized thoughts on left vs. realistic alternative explanations on right, modern graphic design"*
-*Stock Keywords: cognitive bias, negative thinking, social anxiety*
+
 
 ### The Personalization-Catastrophizing Loop
 
@@ -243,8 +236,7 @@ Your brain is literally wired to notice:
 - **What's missing** over what's present
 
 ![Brain diagram highlighting the amygdala and prefrontal cortex with arrows showing threat detection vs. rational thinking](brain_negativity_bias.jpg)
-*AI Image Prompt: "Educational brain diagram showing amygdala threat detection vs prefrontal cortex rational thinking, medical illustration style"*
-*Stock Keywords: brain science, negativity bias, neuroscience*
+
 
 ### The Comment Section Syndrome
 
@@ -289,8 +281,7 @@ Harvard research shows that the average person's mind wanders **47% of the time*
 - Self-criticism and judgment
 
 ![Person running on a path with their mind focused on the present moment, showing footsteps and surrounding nature](mindful_running_illustration.jpg)
-*AI Image Prompt: "Person running mindfully on nature path, focus on present moment, ethereal light highlighting footsteps and surroundings, peaceful atmosphere"*
-*Stock Keywords: mindful exercise, present moment, meditation in motion*
+
 
 ### Practical Mindfulness: Beyond Meditation
 
@@ -342,8 +333,7 @@ Your final strategy involves creating a personalized **self-soothing toolkit** t
 When you're stressed, your **sympathetic nervous system** activates fight-or-flight responses. Engaging your senses in deliberate, comforting ways helps activate the **parasympathetic nervous system**—your body's natural calm-and-restore mode.
 
 ![Collection of self-soothing items arranged aesthetically: essential oils, soft textures, calming music, herbal tea](self_soothing_toolkit_flatlay.jpg)
-*AI Image Prompt: "Flat lay of self-soothing items: essential oils, soft blanket, headphones, journal, tea, crystals, arranged beautifully with soft lighting"*
-*Stock Keywords: self-care tools, comfort items, stress relief kit*
+
 
 ### Your Multi-Sensory Toolkit
 
@@ -517,7 +507,7 @@ Transform your stress, anxiety, and overall well-being in just 30 days with prov
 
 [**🌟 Start Your Ultimate 30-Day Holistic Wellness Journey Today**](https://bit.ly/4lZAOYP)
 
-*Banner Description: Vibrant, calming banner featuring a person in a peaceful meditation pose surrounded by elements representing the 7 strategies—a feelings wheel, mindfulness symbols, nature imagery, and self-care items. Use soft, gradient colors (blues, greens, warm whites) with modern typography highlighting the 30-day journey. Include subtle animations of floating wellness icons and a gentle glow effect around the CTA button.*
+
 
 ---
 
