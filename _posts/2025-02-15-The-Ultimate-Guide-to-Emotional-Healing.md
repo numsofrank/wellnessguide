@@ -106,10 +106,12 @@ This isn't weakness—it's actually your brain trying to keep you safe. But stay
 ### 🎯 **LIMITED TIME: COMPLETE SYSTEM + BONUS RESOURCES**
 
 <div align="center">
-
-## **👇 CLICK HERE TO GET STARTED 👇**
-# **[🛒 GET YOUR HEALING JOURNEY NOW →](https://bit.ly/4lZAOYP)**
-
+  <h2 style="font-weight: bold;">👇 CLICK HERE TO GET STARTED 👇</h2>
+  <h1 style="font-weight: bold;">
+    <a href="https://bit.ly/4lZAOYP" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      🛒 GET THE ULTIMATE 30-DAY HOLISTIC WELLNESS JOURNEY NOW →
+    </a>
+  </h1>
 </div>
 
 ---
