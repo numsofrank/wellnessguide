@@ -233,11 +233,12 @@ As you complete these 30 days, acknowledge how far you've come while recognizing
 ### 🎯 **LIMITED TIME: INCLUDES BONUS GUIDED MEDITATION SERIES**
 
 <div align="center">
-
-## **👇 CLICK HERE TO GET STARTED 👇**
-
-# **[🛒 GET THE ULTIMATE 30-DAY HOLISTIC WELLNESS JOURNEY NOW →](https://bit.ly/4lZAOYP)**
-
+  <h2 style="font-weight: bold;">👇 CLICK HERE TO GET STARTED 👇</h2>
+  <h1 style="font-weight: bold;">
+    <a href="https://bit.ly/4lZAOYP" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+      🛒 GET THE ULTIMATE 30-DAY HOLISTIC WELLNESS JOURNEY NOW →
+    </a>
+  </h1>
 </div>
 
 ---
