@@ -235,7 +235,7 @@ As you complete these 30 days, acknowledge how far you've come while recognizing
 <div align="center">
 
 ## **👇 CLICK HERE TO GET STARTED 👇**
-# **[🛒 GET THE ULTIMATE 30-DAY HOLISTIC WELLNESS JOURNEY NOW →](https://bit.ly/4lZAOYP)**
+# **<a href="https://bit.ly/4lZAOYP" target="_blank" rel="noopener noreferrer">🛒 GET THE ULTIMATE 30-DAY HOLISTIC WELLNESS JOURNEY NOW →</a>**
 
 </div>
 
